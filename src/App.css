@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+}
+body{
+  overflow: hidden;
+}
+html{
+  overflow: overlay;
+}
+
+
